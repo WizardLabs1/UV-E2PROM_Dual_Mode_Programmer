@@ -8,6 +8,8 @@
   
   Defined communication protocol between the uC and the GUI through USB CDC
 
+_________________________________________________________________________________________________________________
+
 * Check my youtube playlist for this project :
   https://www.youtube.com/@WizardLabs-s8m
 
